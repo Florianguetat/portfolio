@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function () {
         flag.addEventListener("click", function () {
             const selectedLang = this.dataset.lang;
             if (selectedLang === "fr") {
-                window.location.href = "../français/accueil.html";
+                window.location.href = "/français/accueil.html";
             } else if (selectedLang === "en") {
                 window.location.href = "/portfolio/code/english/home.html";
             }
