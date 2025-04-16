@@ -123,18 +123,18 @@ main {
     display: flex;
 }
 
-/* Mode sombre appliqué à tout le site */
+/* Mode sombre appliqué à tout le site 
 .dark-mode {
     background-color: #121212;
     color: white;
 }
-/* Mode sombre pour le menu */
+/* Mode sombre pour le menu 
 .dark-mode #settings-menu {
     background-color: #1e1e1e;
     color: white;
 }
 
-/* Style du bouton mode sombre */
+/* Style du bouton mode sombre 
 .dark-mode #dark-mode-toggle {
     background: white;
     color: black;
@@ -151,7 +151,7 @@ main {
     background-color: black;
     color:white;
 }
-
+*/
 
 /* Styles des drapeaux */
 .flags {
