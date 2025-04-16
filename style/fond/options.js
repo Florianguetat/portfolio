@@ -45,6 +45,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 window.location.href = "/portfolio/code/français/accueil.html";
             } else if (selectedLang === "en") {
                 window.location.href = "/portfolio/code/english/home.html";
+            }else if (selectedLang === "de") {
+                window.location.href = "/portfolio/code/deutsch/heim.html";
             }
         });
     });
