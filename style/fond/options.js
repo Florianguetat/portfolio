@@ -47,7 +47,10 @@ document.addEventListener("DOMContentLoaded", function () {
                 window.location.href = "/portfolio/code/english/home.html";
             }else if (selectedLang === "de") {
                 window.location.href = "/portfolio/code/deutsch/heim.html";
-            }
+            }else if (selectedLang === "es") {
+                window.location.href = "/portfolio/code/español/hogar.html";
+            }else if (selectedLang === "it") {
+                window.location.href = "/portfolio/code/italiano/home.html";
         });
     });
 });
