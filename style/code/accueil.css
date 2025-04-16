@@ -139,17 +139,19 @@ main {
     background: white;
     color: black;
 }
-.dark-mode:body{
+.dark-mode body {
     background-color: black;
     color: white;
 }
-.dark-mode:header{
+
+.dark-mode header {
     background: black;
     color: white;
 }
-.dark-mode:main{
+
+.dark-mode main {
     background-color: black;
-    color:white;
+    color: white;
 }
 */
 
